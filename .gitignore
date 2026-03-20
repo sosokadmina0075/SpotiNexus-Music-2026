@@ -1,0 +1,15 @@
+# SpotiNexus - Exclusions
+*.exe
+*.dll
+*.pdb
+.vs/
+x64/
+Debug/
+Release/
+
+# Caches and Private Sessions
+/Cache/
+/Sync_Data/
+session.db
+tokens.dat
+user_prefs.json
